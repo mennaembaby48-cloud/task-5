@@ -1785,13 +1785,14 @@ tbody tr:nth-of-type(4) .category {
         }
     }
 
-    .main-header>div:nth-of-type(3)
-{
-    display: none;
-}
 .main-header>div:nth-child(1) div:nth-of-type(3){
   display: flex;
         align-items: center;
         justify-content: center;
+        width: auto;
+}
+   .main-header>div:nth-of-type(3)
+{
+    display: none;
 }
 }
