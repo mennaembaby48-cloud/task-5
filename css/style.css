@@ -1305,7 +1305,7 @@ tbody tr:nth-of-type(4) .category {
 
     position: relative;
     transform-style: preserve-3d;
-    transition: transform 0.5s linear;
+    transition: transform 0.5s ease;
 }
 
 #credit-item-2 {
