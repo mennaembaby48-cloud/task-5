@@ -1515,7 +1515,7 @@ tbody tr:nth-of-type(4) .category {
 }
 
 
-@media screen and (min-width:992px) {
+@media screen and (min-width:768px) {
     .cards {
         grid-template-columns: repeat(3, 1fr);
     }
